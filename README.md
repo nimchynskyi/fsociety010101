@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fsociety010101/fsociety010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center"><b> Hello! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+#### 💻 Computer Science student at [UMCS](https://www.umcs.pl/pl/wydzial-matematyki-fizyki-i-informatyki-umcs-w-lublinie,46.htm), Lublin. 
+
+#### Technology stack:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,swift,python,ts,js,html,css,angular,react,spring,git,github,gitlab,mysql,postman,docker,linux,figma)](https://skillicons.dev)
+
+
