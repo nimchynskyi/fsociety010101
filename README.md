@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><b> Hello! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <h1 align="center"><b> Hello! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
 
 #### 💻 Computer Science student at [UMCS](https://www.umcs.pl/pl/wydzial-matematyki-fizyki-i-informatyki-umcs-w-lublinie,46.htm), Lublin. 
 
