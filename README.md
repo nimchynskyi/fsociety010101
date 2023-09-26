@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 #### Technology stack:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,docker,swift,ts,js,html,css,react,mysql,postman,linux)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,docker,swift,ts,js,html,css,tailwind,react,mysql,postman,linux" />
+  </a>
+</p>
 
